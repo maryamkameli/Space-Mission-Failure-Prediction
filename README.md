@@ -8,11 +8,9 @@ https://www.kaggle.com/datasets/agirlcoding/all-space-missions-from-1957
 
 # Data files
 
-Space_Corrected.csv - the origin dataset of all-space-missions-from-1957
-
-Space.csv -  the fixed version of Space_Corrected.csv
-
 astro_3.csv - the fixed version of spacemissionsflightstatus
+
+Space.csv -  the fixed version of all-space-missions-from-1957
 
 # Pre-processing Data files
 
