@@ -12,5 +12,5 @@ Space_Corrected.csv - the origin dataset of all-space-missions-from-1957
 
 Space.csv -  the fixed version of Space.csv
 
-astro_3.csv - the fixed version of https://www.kaggle.com/datasets/rosetabares/spacemissionsflightstatus
+astro_3.csv - the fixed version of spacemissionsflightstatus
 
