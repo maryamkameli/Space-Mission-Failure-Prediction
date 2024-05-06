@@ -14,9 +14,10 @@ Space.csv -  the fixed version of Space.csv
 
 astro_3.csv - the fixed version of spacemissionsflightstatus
 
-# Pre-Processing Data files
+# Pre-processing Data files
 
 Data_Exploring.ipynb
+
 data_cleaning_and_augmentation.ipynb
 
 # Analysis file
